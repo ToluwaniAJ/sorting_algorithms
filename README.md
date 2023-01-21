@@ -22,5 +22,5 @@ This project is an introduction to sorting algorithms and Big O Notation.
 * How to select the best sorting algorithm for a given input
 * What is a stable sorting algorithm
 ### Contributors
-1. ToluwaniAJ [Gmail] (mailto:toluwaniajibare@gmail.com)
-2. Mcsavvy [Gmail] (mailto:davemcsavvii@gmail.com)
+1. ToluwaniAJ [Gmail](mailto:toluwaniajibare@gmail.com)
+2. Mcsavvy [Gmail](mailto:davemcsavvii@gmail.com)
